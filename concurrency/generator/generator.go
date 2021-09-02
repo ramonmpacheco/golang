@@ -15,7 +15,7 @@ func title(urls ...string) <-chan string {
 			resp, _ := http.Get(url)
 			html, _ := ioutil.ReadAll(resp.Body)
 
-			r, _ := regexp.Compile("<title>(.*?)<\\/title>")
+			r, _ := regexp.Compile(`<title>(.*?)<\/title>`)
 			c <- r.FindStringSubmatch(string(html))[1]
 		}(url)
 	}
@@ -25,7 +25,6 @@ func title(urls ...string) <-chan string {
 
 func main() {
 	t1 := title(
-		"https://www.google.com/",
 		"https://www.amazon.com.br/",
 		"https://golang.org/",
 	)
