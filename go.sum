@@ -1,6 +1,10 @@
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
 github.com/ramonmpacheco/goarea v0.0.0-20210901192211-6f5b7f936ce0 h1:+QNWvvnNzEoQr9UJJcN4cKcsRJfl9W62Jv8b/9PMjGA=
 github.com/ramonmpacheco/goarea v0.0.0-20210901192211-6f5b7f936ce0/go.mod h1:yhDxhJF/jr/Opknpm/bjP8Ho/8/oQyzYTP7BZg0P55A=
 github.com/ramonmpacheco/goarea v0.0.0-20210902000150-5d26baacc1bc h1:vQBrzQNvV6zbQTjTPg6LxGuzX9KhW2SbqS3LnYG4xuk=
 github.com/ramonmpacheco/goarea v0.0.0-20210902000150-5d26baacc1bc/go.mod h1:yhDxhJF/jr/Opknpm/bjP8Ho/8/oQyzYTP7BZg0P55A=
+github.com/ramonmpacheco/goarea v0.0.0-20210902004510-b9785ae54197 h1:uyxlaYoQj5BZ4nHxHCtTu0UPncdl5/hYaVmkT0RNaE0=
+github.com/ramonmpacheco/goarea v0.0.0-20210902004510-b9785ae54197/go.mod h1:yhDxhJF/jr/Opknpm/bjP8Ho/8/oQyzYTP7BZg0P55A=
 github.com/ramonmpacheco/gohtml v0.0.0-20210902134430-7e5aaf1db2f5 h1:vu7yxYE1QPewB0X0ModFpeOqOancr6HDxuzHq0HITuQ=
 github.com/ramonmpacheco/gohtml v0.0.0-20210902134430-7e5aaf1db2f5/go.mod h1:u7hWfiU1m4w35AyNercOZwb8pPAx1QbQiFdCGkZaV48=
